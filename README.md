@@ -34,6 +34,6 @@ SillyTavern（酒馆）+ 酒馆助手 全局脚本：一个不依赖消息与角
 ## 来源与版权
 
 - **原作**：桃mini（@wobushirenji.），原版经酒馆社区流传
-- **二改**：[Civinar-Riley](https://github.com/Civinar-Riley)，改动仅限 更新记录.md 所列内容（暗色主题、系统媒体控制、性能优化）
+- **二改**：西维纳尔（[Civinar-Riley](https://github.com/Civinar-Riley)），改动仅限 更新记录.md 所列内容（暗色主题、系统媒体控制、性能优化）
 - `versions/` 目录留存了二改基线原版，便于对照
 - 原脚本未附带开源许可证，版权归原作所有。本仓库为社区交流用途，禁止商用；如原作者希望调整或撤下，请提 issue 或直接联系，会第一时间处理
